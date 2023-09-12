@@ -12,3 +12,5 @@ mean(mtcars$mpg)
 
 #Create a histogram for mpg variable in mtcars
 hist(mtcars$mpg)
+
+#mtcars$mpg ~ mtcars$wt
